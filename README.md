@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mr. X (aka bringerofdarkness)
+# 👋 Hi, I'm Mr. Md. Shahrul Zakaria (aka bringerofdarkness)
 🎓 Final Year Software Engineering Student  
 🧠 ML & Deep Learning Enthusiast | 💬 Bengali NLP Explorer  
 📍 Based in Bangladesh
