@@ -1,18 +1,78 @@
-# 👋 Hi, I'm Mr. Md. Shahrul Zakaria (aka bringerofdarkness)
-🎓 Final Year Software Engineering Student  
-🧠 ML & Deep Learning Enthusiast | 💬 Bengali NLP Explorer  
-📍 Based in Bangladesh
+<!-- 🎓 NAME & INTRO -->
+
+<h1 align="center" style="color:#4F6D7A;">Md Shahrul Zakaria</h1>
+
+
+<p align="center">
+  <em>Final Year Software Engineering Student</em><br>
+  ML & AI Enthusiast · Exploring Deep Learning, NLP & Image Processing<br>
+  Based in Bangladesh · Always building, always learning
+</p>
+
+<hr style="border: 0.5px solid #ccc;">
 
 ---
+
+<h2 align="center">🎯 Current Goal</h2>
+
+<p align="center">
+  I am currently focused on becoming a skilled <strong>AI Engineer</strong> with deep expertise in:<br>
+  <strong>Image Processing</strong>, <strong>Natural Language Processing</strong>, and <strong>Medical AI Applications</strong>.
+</p>
+
+<p align="center">
+  🔍 Actively seeking:<br>
+  • Research opportunities in AI/ML and medical image analysis<br>
+  • Internships in Data Science, Machine Learning, or Applied AI
+</p>
+
+<p align="center"><strong>Special Capability:</strong> Medical Image Processing</p>
+
+
+<!-- 🔬 TECHNICAL DEPTH -->
+
+<h2 align="center" style="margin-top: 40px;">🔍 Technical Depth</h2>
+
+<p align="center">
+  <strong>Fields:</strong> Machine Learning · Deep Learning · NLP<br>
+  <strong>Libraries:</strong> scikit-learn · PyTorch · Kaggle
+</p>
+
+<!-- 💻 LANGUAGES -->
+
+<h2 align="center" style="margin-top: 40px;">💻 Programming Languages</h2>
+
+<p align="center">
+  Python  &nbsp;|&nbsp; C (procedural) &nbsp;|&nbsp; HTML & CSS (basic)
+</p>
+
+<!-- 🧰 TOOLS -->
+
+<h2 align="center" style="margin-top: 40px;">🧰 Tools & Frameworks</h2>
+
+<p align="center">
+  NumPy · Pandas · Matplotlib · Flask · Git · GitHub
+</p>
+
+<hr style="border: 0.5px solid #ccc;">
+
 ## 📚 Projects
 
-- 🧥 **[Ozzy Fashion Classifier](https://github.com/your-username/ozzy-fashion)** – Fun image classification project using ResNet18.
-- 🏠 [**Hostel Management System**](https://github.com/bringerofdarkness/Hostel-Management-system) – A basic CRUD-based desktop application built in 1st year for managing hostel room allocations, student records, and payments.
+- **[Ozzy Fashion Classifier](https://github.com/bringerofdarkness/ozzy-fashion)**  
+  A fun image classification project using ResNet18 to predict Ozzy Osbourne’s fashion eras.
+- **[Hostel Management System](https://github.com/bringerofdarkness/Hostel-Management-system)**  
+  Basic CRUD-based desktop app to manage hostel room allocations, student records, and payments (1st year).
+- **[Software Development Capstone Project](https://github.com/bringerofdarkness/Software-Development-Capstone-Project-)**  
+  A CLI-based C project using file handling and menus — my first capstone experience.
 
-## 🤝 Collaborations / Team Projects
+---
 
-- 🌐 [**DIU SWE Career Hub**](https://github.com/RoushanKhalid/DIU_SWE_Career_Hub)  
-  Contributed to a career and networking platform for SWE students at DIU. Features include job board, resume upload, and mentor connect.
+## 🤝 Team Projects & Collaborations
+
+- **[DIU SWE Career Hub](https://github.com/RoushanKhalid/DIU_SWE_Career_Hub)**  
+  Contributed to a student career platform featuring job listings, resume submission, and mentor connections.
+- **[Employee Management System](https://github.com/bringerofdarkness/Employee_Management_System)**  
+  Group project built in 2nd year using Python to manage employee records with add/edit/delete/search functions.
 
 ---
 
@@ -26,30 +86,23 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bringerofdarkness&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=bringerofdarkness&theme=dark&hide_border=false)
-
-## 🏆 GitHub Trophies
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bringerofdarkness&theme=dark&hide_border=false)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bringerofdarkness&theme=darkhub)
-
----
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bringerofdarkness&theme=dark)
-
----
-
-## 👁️ Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=bringerofdarkness&color=blue)
 
-
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahrul-zakaria-24a805230)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](md.shahrul.zakaria@email.com)
+<h2 align="center">Connect With Me</h2>
 
----
-
-> 🧩 *Always learning. Always building. Just getting started...*
+<p align="center">
+  <a href="https://linkedin.com/in/md-shahrul-zakaria-24a805230" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:md.shahrul.zakaria@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
