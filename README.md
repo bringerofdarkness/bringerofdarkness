@@ -1,4 +1,5 @@
 <!-- 🎓 NAME & INTRO -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Final+Year+SWE+Student;ML+%2F+AI+%2F+NLP+Explorer;Building+Cool+Things+with+Code)
 
 <h1 align="center" style="color:#4F6D7A;">Md Shahrul Zakaria</h1>
 
@@ -60,8 +61,10 @@
 
 - **[Ozzy Fashion Classifier](https://github.com/bringerofdarkness/ozzy-fashion)**  
   A fun image classification project using ResNet18 to predict Ozzy Osbourne’s fashion eras.
+  
 - **[Hostel Management System](https://github.com/bringerofdarkness/Hostel-Management-system)**  
   Basic CRUD-based desktop app to manage hostel room allocations, student records, and payments (1st year).
+  
 - **[Software Development Capstone Project](https://github.com/bringerofdarkness/Software-Development-Capstone-Project-)**  
   A CLI-based C project using file handling and menus — my first capstone experience.
 
@@ -71,6 +74,7 @@
 
 - **[DIU SWE Career Hub](https://github.com/RoushanKhalid/DIU_SWE_Career_Hub)**  
   Contributed to a student career platform featuring job listings, resume submission, and mentor connections.
+  
 - **[Employee Management System](https://github.com/bringerofdarkness/Employee_Management_System)**  
   Group project built in 2nd year using Python to manage employee records with add/edit/delete/search functions.
 
