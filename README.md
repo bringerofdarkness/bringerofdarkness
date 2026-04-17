@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>AI Engineer | LLM & Backend Systems</em><br>
-  Generative AI · LLMs · RAG Systems · NLP · Image Processing · FastAPI<br>
+  Generative AI · RAG Systems · NLP · FastAPI<br>
   Building practical AI systems with real-world applications
 </p>
 
