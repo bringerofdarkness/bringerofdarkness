@@ -4,9 +4,9 @@
 <h1 align="center">Md Shahrul Zakaria</h1>
 
 <p align="center">
-  <em> Generative AI & Backend Systems</em>
-  Generative AI · LLM Applications · RAG Systems · Backend Development<br>
-  Based in Bangladesh · Focused on building practical AI systems
+  <em>AI Engineer | LLM & Backend Systems</em><br>
+  Generative AI · LLMs · RAG Systems · NLP · Image Processing · FastAPI<br>
+  Building practical AI systems with real-world applications
 </p>
 
 <p align="center">
