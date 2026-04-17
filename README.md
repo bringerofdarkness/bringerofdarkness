@@ -4,7 +4,7 @@
 <h1 align="center">Md Shahrul Zakaria</h1>
 
 <p align="center">
-  <em>AI Engineer Trainee Candidate</em><br>
+  <em>AI Engineer | Generative AI & Backend Systems</em>
   Generative AI · LLM Applications · RAG Systems · Backend Development<br>
   Based in Bangladesh · Focused on building practical AI systems
 </p>
@@ -118,25 +118,7 @@ I am especially interested in roles involving **applied AI, intelligent assistan
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bringerofdarkness&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bringerofdarkness&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bringerofdarkness&theme=darkhub" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bringerofdarkness&color=blue" alt="Profile views" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
