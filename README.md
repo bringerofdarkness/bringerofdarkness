@@ -1,10 +1,10 @@
 <!-- HEADER -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=AI+Engineer;Generative+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Backend+Development;Building+Real-World+AI+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Generative+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Backend+Development;Building+Real-World+AI+Systems)
 
 <h1 align="center">Md Shahrul Zakaria</h1>
 
 <p align="center">
-  <em>AI Engineer | Generative AI & Backend Systems</em>
+  <em> Generative AI & Backend Systems</em>
   Generative AI · LLM Applications · RAG Systems · Backend Development<br>
   Based in Bangladesh · Focused on building practical AI systems
 </p>
