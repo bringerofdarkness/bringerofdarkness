@@ -1,112 +1,151 @@
-<!-- 🎓 NAME & INTRO -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Final+Year+SWE+Student;ML+%2F+AI+%2F+NLP+Explorer;Building+Cool+Things+with+Code)
+<!-- HEADER -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=AI+Engineer+Trainee+Candidate;Generative+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Backend+Development;Building+Real-World+AI+Systems)
 
-<h1 align="center" style="color:#4F6D7A;">Md Shahrul Zakaria</h1>
-
+<h1 align="center">Md Shahrul Zakaria</h1>
 
 <p align="center">
-  <em>Final Year Software Engineering Student</em><br>
-  ML & AI Enthusiast · Exploring Deep Learning, NLP & Image Processing<br>
-  Based in Bangladesh · Always building, always learning
+  <em>AI Engineer Trainee Candidate</em><br>
+  Generative AI · LLM Applications · RAG Systems · Backend Development<br>
+  Based in Bangladesh · Focused on building practical AI systems
 </p>
 
-<hr style="border: 0.5px solid #ccc;">
+<p align="center">
+  <a href="https://linkedin.com/in/md-shahrul-zakaria-24a805230" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:md.shahrul.zakaria@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://github.com/bringerofdarkness" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-<h2 align="center">🎯 Current Goal</h2>
+## 🎯 Current Focus
 
-<p align="center">
-  I am currently focused on becoming a skilled <strong>AI Engineer</strong> with deep expertise in:<br>
-  <strong>Image Processing</strong>, <strong>Natural Language Processing</strong>, and <strong>Medical AI Applications</strong>.
-</p>
+I am focused on becoming a skilled **AI Engineer**, building practical systems with:
 
-<p align="center">
-  🔍 Actively seeking:<br>
-  • Research opportunities in AI/ML and medical image analysis<br>
-  • Internships in Data Science, Machine Learning, or Applied AI
-</p>
+- **Generative AI and LLM applications**
+- **Retrieval-Augmented Generation (RAG)**
+- **NLP and embeddings-based systems**
+- **Backend development with FastAPI and REST APIs**
 
-<p align="center"><strong>Special Capability:</strong> Medical Image Processing</p>
-
-
-<!-- 🔬 TECHNICAL DEPTH -->
-
-<h2 align="center" style="margin-top: 40px;">🔍 Technical Depth</h2>
-
-<p align="center">
-  <strong>Fields:</strong> Machine Learning · Deep Learning · NLP<br>
-  <strong>Libraries:</strong> scikit-learn · PyTorch · Kaggle
-</p>
-
-<!-- 💻 LANGUAGES -->
-
-<h2 align="center" style="margin-top: 40px;">💻 Programming Languages</h2>
-
-<p align="center">
-  Python  &nbsp;|&nbsp; C (procedural) &nbsp;|&nbsp; HTML & CSS (basic)
-</p>
-
-<!-- 🧰 TOOLS -->
-
-<h2 align="center" style="margin-top: 40px;">🧰 Tools & Frameworks</h2>
-
-<p align="center">
-  NumPy · Pandas · Matplotlib · Flask · Git · GitHub
-</p>
-
-<hr style="border: 0.5px solid #ccc;">
-
-## 📚 Projects
-
-- **[Ozzy Fashion Classifier](https://github.com/bringerofdarkness/ozzy-fashion)**  
-  A fun image classification project using ResNet18 to predict Ozzy Osbourne’s fashion eras.
-  
-- **[Hostel Management System](https://github.com/bringerofdarkness/Hostel-Management-system)**  
-  Basic CRUD-based desktop app to manage hostel room allocations, student records, and payments (1st year).
-  
-- **[Software Development Capstone Project](https://github.com/bringerofdarkness/Software-Development-Capstone-Project-)**  
-  A CLI-based C project using file handling and menus — my first capstone experience.
+I am especially interested in roles involving **applied AI, intelligent assistants, AI-powered products, and backend-integrated ML systems**.
 
 ---
 
-## 🤝 Team Projects & Collaborations
+## 🔍 Technical Focus
+
+- **AI/ML:** Machine Learning, Generative AI, LLM Applications, NLP, RAG, Prompt Engineering
+- **Backend:** FastAPI, Flask, REST APIs, modular backend architecture
+- **Data & Retrieval:** Embeddings, Vector Databases, ChromaDB, BM25
+- **Deployment & Tools:** Docker, Hugging Face Spaces, Git, GitHub
+
+---
+
+## 💻 Skills
+
+### Programming Languages
+- Python
+- C/C++
+
+### Frameworks & Libraries
+- FastAPI
+- Flask
+- LangChain
+- Streamlit
+- PyTorch
+- Scikit-learn
+
+### Databases
+- PostgreSQL
+- MySQL
+- ChromaDB
+
+### AI / ML
+- Machine Learning
+- Generative AI
+- LLM Applications
+- NLP
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Vector Databases
+- Prompt Engineering
+- Model Evaluation & Optimization
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Hugging Face Spaces
+- Sentence Transformers
+
+---
+
+## 🚀 Featured Projects
+
+- **[Bangladesh Legal AI Assistant (RAG System)](https://github.com/bringerofdarkness)**  
+  Built and deployed a Retrieval-Augmented Generation (RAG) system for answering legal questions from Bangladesh law documents using chunking, embeddings, hybrid retrieval, and context-aware response generation.
+
+- **[Klyo Backend (E-commerce Backend System - FastAPI)](https://github.com/bringerofdarkness/klyo-backend)**  
+  Developed a production-style e-commerce backend using FastAPI, PostgreSQL, and SQLAlchemy with JWT authentication, RBAC, REST API versioning, and full order lifecycle management.
 
 - **[DIU SWE Career Hub](https://github.com/RoushanKhalid/DIU_SWE_Career_Hub)**  
-  Contributed to a student career platform featuring job listings, resume submission, and mentor connections.
-  
-- **[Employee Management System](https://github.com/bringerofdarkness/Employee_Management_System)**  
-  Group project built in 2nd year using Python to manage employee records with add/edit/delete/search functions.
+  Built a web-based recruitment management system with job listings, applicant handling, and an AI chatbot for job-related guidance.
+
+- **[Ozzy Fashion Classifier](https://github.com/bringerofdarkness/ozzy-fashion)**  
+  Developed a deep learning-based image classification model using ResNet18 and Grad-CAM to classify Ozzy Osbourne’s fashion eras.
 
 ---
 
 ## 🧰 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FCC624?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bringerofdarkness&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bringerofdarkness&theme=dark&hide_border=false)
-![Trophies](https://github-profile-trophy.vercel.app/?username=bringerofdarkness&theme=darkhub)
-![Profile views](https://komarev.com/ghpvc/?username=bringerofdarkness&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bringerofdarkness&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bringerofdarkness&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bringerofdarkness&theme=darkhub" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bringerofdarkness&color=blue" alt="Profile views" />
+</p>
 
 ---
 
-<h2 align="center">Connect With Me</h2>
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/md-shahrul-zakaria-24a805230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:md.shahrul.zakaria@email.com" target="_blank">
+  <a href="mailto:md.shahrul.zakaria@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
