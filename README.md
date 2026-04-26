@@ -4,7 +4,7 @@
 <h1 align="center">Md Shahrul Zakaria</h1>
 
 <p align="center">
-  <em>AI Engineer | LLM & Backend Systems</em><br>
+  <em>AI Enthusiast | LLM & Backend Systems</em><br>
   Generative AI · RAG Systems · NLP · FastAPI<br>
   Building practical AI systems with real-world applications
 </p>
