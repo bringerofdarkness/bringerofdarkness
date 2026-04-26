@@ -93,11 +93,11 @@ I am especially interested in roles involving **applied AI, intelligent assistan
 - **[Klyo Backend (E-commerce Backend System - FastAPI)](https://github.com/bringerofdarkness/klyo-backend)**  
   Developed a production-style e-commerce backend using FastAPI, PostgreSQL, and SQLAlchemy with JWT authentication, RBAC, REST API versioning, and full order lifecycle management.
 
-- **[DIU SWE Career Hub](https://github.com/RoushanKhalid/DIU_SWE_Career_Hub)**  
-  Built a web-based recruitment management system with job listings, applicant handling, and an AI chatbot for job-related guidance.
+- **[Olist Data Warehouse Pipeline](https://github.com/bringerofdarkness/olist-data-warehouse-pipeline)**  
+  Built an end-to-end data engineering pipeline using PostgreSQL and Python, implementing a Medallion Architecture with automated ETL, logging, retry logic, and     data quality validation.
 
-- **[Ozzy Fashion Classifier](https://github.com/bringerofdarkness/ozzy-fashion)**  
-  Developed a deep learning-based image classification model using ResNet18 and Grad-CAM to classify Ozzy Osbourne’s fashion eras.
+- **[Olist Intelligent Guardrail (E-commerce Logistics Intelligence)](https://github.com/bringerofdarkness/olist-intelligent-guardrail)**  
+  Built an end-to-end ML system to predict delivery delay risk using engineered logistics features, FastAPI backend, and Streamlit dashboard.
 
 ---
 
